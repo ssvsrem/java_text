@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.nutz:nutz-plugins-daocache:1.r.65-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/nutz/nutz-plugins-daocache/1.r.65-SNAPSHOT/nutz-plugins-daocache-1.r.65-20171213.115138-19.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/nutz/nutz-plugins-daocache/1.r.65-SNAPSHOT/nutz-plugins-daocache-1.r.65-20171213.115138-19-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/nutz/nutz-plugins-daocache/1.r.65-SNAPSHOT/nutz-plugins-daocache-1.r.65-20171213.115138-19-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
