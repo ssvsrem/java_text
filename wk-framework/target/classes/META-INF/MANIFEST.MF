@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: 王阵
+Build-Jdk: 9.0.1
+Implementation-Title: wk-framework
+Implementation-Version: 4.0.1-SNAPSHOT
+Implementation-Vendor-Id: cn.wizzer
+Implementation-URL: http://www.wizzer.cn/wk-framework
+Created-By: Maven Integration for Eclipse
+
